@@ -1,0 +1,50 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - BMKLocationKit (1.8.5)
+  - IQKeyboardManager (4.0.13)
+  - JSONModel (1.8.0)
+  - Masonry (1.1.0)
+  - MJRefresh (3.3.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BMKLocationKit
+  - IQKeyboardManager (~> 4.0.11)
+  - JSONModel
+  - Masonry (~> 1.1.0)
+  - MJRefresh
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - BMKLocationKit
+    - IQKeyboardManager
+    - JSONModel
+    - Masonry
+    - MJRefresh
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  BMKLocationKit: fd3d6b4a9a3a1a2763819f56b780bda5fc5b8726
+  IQKeyboardManager: 8eab4d8111418414619d1df8e4779ce5d0f8d7e2
+  JSONModel: 02ab723958366a3fd27da57ea2af2113658762e9
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: eeda70fbf0ad277f3178cef1cd0c3532591d6237
+
+PODFILE CHECKSUM: 19334fb295da9c3c198202303b9c9e8c661ac4b6
+
+COCOAPODS: 1.8.4
